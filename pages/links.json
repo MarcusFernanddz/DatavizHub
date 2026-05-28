@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "title": "GitHub",
+        "url": "https:\/\/github.com",
+        "icon": "brand-github",
+        "category": "Dev",
+        "color": "#6e7681"
+    },
+    {
+        "id": 2,
+        "title": "YouTube",
+        "url": "https:\/\/youtube.com",
+        "icon": "brand-youtube",
+        "category": "M\u00eddia",
+        "color": "#ff0000"
+    },
+    {
+        "id": 3,
+        "title": "Gmail",
+        "url": "https:\/\/mail.google.com",
+        "icon": "mail",
+        "category": "Comunica\u00e7\u00e3o",
+        "color": "#ea4335"
+    },
+    {
+        "id": 4,
+        "title": "ChatGPT",
+        "url": "https:\/\/chatgpt.com",
+        "icon": "robot",
+        "category": "IA",
+        "color": "#10a37f"
+    },
+    {
+        "id": 5,
+        "title": "Notion",
+        "url": "https:\/\/notion.so",
+        "icon": "notebook",
+        "category": "Produtividade",
+        "color": "#ffffff"
+    },
+    {
+        "id": 6,
+        "title": "Spotify",
+        "url": "https:\/\/spotify.com",
+        "icon": "brand-spotify",
+        "category": "M\u00eddia",
+        "color": "#1db954"
+    },
+    {
+        "id": 7,
+        "title": "Stack Overflow",
+        "url": "https:\/\/stackoverflow.com",
+        "icon": "stack-2",
+        "category": "Dev",
+        "color": "#f48024"
+    },
+    {
+        "id": 8,
+        "title": "Reddit",
+        "url": "https:\/\/reddit.com",
+        "icon": "brand-reddit",
+        "category": "Social",
+        "color": "#ff4500"
+    }
+]
